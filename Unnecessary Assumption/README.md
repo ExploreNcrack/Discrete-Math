@@ -1,7 +1,7 @@
 # Unnecessary Assumption
 **When you are trying to solve a problem, 
 you are sometimes hindered because you apply assumptions that are not part of the problem.**
-Some of those problem can be easily solved once you get rid of the **unnecessary assumption**
+Some of those problems can be easily solved once you get rid of the **unnecessary assumption**
 ## Example
 One night my uncle was reading an exciting book when his wife turned out the light. Even though the room was pitch-dark he went right on reading. How could he do that?
 </br>
