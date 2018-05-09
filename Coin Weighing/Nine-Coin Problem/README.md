@@ -14,5 +14,13 @@ Comparing/weighing any 2 groups in the equally splitted 3 groups
 * **Equivalent balance** --> then the counterfeit coin must be in the leftover three coins by exclusion
 
 ### Second Weighing
+In the second weighing we only have three candidate coins left over to find out which one is the counterfeit coin
+</br>
+Thus we just need to compare two coins of the three coins 
+</br>
+From each of the three possible cases above from first weighing, there are three possible cases:
+* **Left side** of the balance is heavier -->  the coin in the left side of the balance is the counterfeit coin
+* **Right side** of the balance is heavier --> the coin in the right side of the balance is the counterfeit coin
+* **Equivalent balance** --> the left over coin is the counterfeit coin
 
-
+![](https://github.com/ExploreNcrack/Discrete-Math/blob/master/Coin%20Weighing/Nine-Coin%20Problem/sol9.png)
