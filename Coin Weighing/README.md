@@ -13,3 +13,6 @@ notation for finding an adaptive solution:
 * "arrow R" represent the case when the scale tips to the right
 * "arrow B" represent the case when the scale balances
 
+
+## Method Use to Solve the Problem
+ This is a very typical problem that can be solve with **Divide and Conquer**
