@@ -24,3 +24,5 @@ From each of the three possible cases above from first weighing, there are three
 * **Equivalent balance** --> the left over coin is the counterfeit coin
 
 ![](https://github.com/ExploreNcrack/Discrete-Math/blob/master/Coin%20Weighing/Nine-Coin%20Problem/sol9.png)
+
+### Total 2 number of weighings is needed in this way. 
