@@ -16,3 +16,4 @@ notation for finding an adaptive solution:
 
 ## Method Use to Solve the Problem
  This is a very typical problem that can be solve with **Divide and Conquer**
+</br>**CAN NOT USE Divide and Conquer directly to split the coins into two group when the condition of counterfeit coin is NOT KNOWN**
