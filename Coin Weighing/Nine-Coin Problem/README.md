@@ -1,4 +1,4 @@
-# Nine-Coin Problem 
+# Nine-Coin Problem With One Known Condition Counterfeit Coin
 There are 9 coins, all identical except that one is **slightly heavier** than the others. Find the heavy coin using two weighings on a pan balance.
 
 # Solution
