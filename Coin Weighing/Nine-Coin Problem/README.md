@@ -7,10 +7,11 @@ One of the very important fact in this problem is that the counterfeit coin is s
 </br>
 </br>The best way to do it is to apply Divide and Conquer method and split the 9 coins into 3 groups(each group has 3 coins)
 ### First Weighing
-</br>Comparing/weighing any 2 groups in the equally splitted 3 groups 
+Comparing/weighing any 2 groups in the equally splitted 3 groups 
 </br>This will result three possible cases:
 * Left side of the balance is heavier --> the counterfeit coin must be in the left side group of 3 coins.
 * Right side of the balance is heavier --> the counterfeit coin must be in the right side group of 3 coins.
 * Equivalent balance --> then the counterfeit coin must be in the leftover three coins by exclusion
 
 ### Second Weighing
+
