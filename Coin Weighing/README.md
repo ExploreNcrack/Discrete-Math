@@ -1,6 +1,6 @@
 # Coin Weighing
 
-A **coin weighing (or balance puzzle or weighing puzzle)** is a logic puzzle about balancing items to determine which holds a **different** value(counterfeit coin), by using balance scales a limited number of times or **minimum number of times**. [[wiki]](https://en.wikipedia.org/wiki/Balance_puzzle)
+A **coin weighing (or balance puzzle or weighing puzzle)** is a logic puzzle about balancing items to determine which holds a **different** value(counterfeit coin or fake coin), by using balance scales a limited number of times or **minimum number of times**. [[wiki]](https://en.wikipedia.org/wiki/Balance_puzzle)
 
 ## Definition 1: 
 An  ***adaptive solution*** is a step by step solution where at each step we adapt depending upon the outcome of previous steps.
@@ -23,3 +23,7 @@ A **non-adaptive solution** is a solution which all the steps are fully predeter
  </br>**The goal is to isolate the counterfeit coin in minimum of weighings**
  </br>
 </br>**CAN NOT USE Divide and Conquer directly to split the coins into two group when the condition of counterfeit coin is NOT KNOWN**
+
+## Facts
+* With **known measurement condition** about the counterfeit(fake) coin, the **maximum number** of coin that **one weighing** can determine which is the counterfeit coin is **3**.
+* With **unknown measurement condition** about the counterfeit(fake) coin, the **minimum number** of weighing that can guarentee finding the counterfeit coin is **2**.
