@@ -5,6 +5,9 @@ There are 9 coins, all identical except that one is **slightly heavier** than th
 One of the very important fact in this problem is that the counterfeit coin is slightly heavier than the others
 </br>With this fact, we can quickly determine which side of the balance has the counterfeit coin by checking when side is heavier than the other under the inbalance case
 </br>
+</br>
+**First we need to consider the maximum number of items from which one can find the heavier one in just one weighing. The maximum number possible is three. In order to find the heavier one, we can compare any two coins, leaving the third out. If the two coins are equivalent balance, then the heavier one must be the one not on the balance(third one); otherwise, it is indicated as heavier on the balance.**
+</br>
 </br>The best way to do it is to apply Divide and Conquer method and **split the 9 coins into 3 groups(each group has 3 coins)**
 ### First Weighing
 Comparing/weighing any 2 groups in the equally splitted 3 groups 
