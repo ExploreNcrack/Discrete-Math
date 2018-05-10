@@ -9,5 +9,5 @@ This problem is slightly different than the Nine-Coin problem
 </br>
 </br>**Thus we can not apply divide and conquer directly to the problem in this case.**
 </br>Since if we directly split the coins into 2 groups, there are two possible cases result (either left side heavier or right side heavier)
-</br>However, this information after weighing is not useful at all. Because the counterfeit coin can be any one of these eight coins
+</br>However, this information after weighing is not useful at all. Because the counterfeit coin can be any one of these eight coins.
 
