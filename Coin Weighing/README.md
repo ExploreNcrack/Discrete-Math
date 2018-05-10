@@ -14,7 +14,7 @@ notation for finding an adaptive solution:
 * "arrow B" represent the case when the scale balances
 
 ## Definition 2:
-An **non-adaptive solution**
+A **non-adaptive solution** is a solution which all the steps are fully predetermined. 
 
 
 ## Method Use to Solve the Problem
