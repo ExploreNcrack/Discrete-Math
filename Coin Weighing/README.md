@@ -11,14 +11,16 @@ A **non-adaptive solution** is a solution which all the steps are fully predeter
 ## Coins Potential
 **While weighing coins, we may be able to determine some incomplete information about a coin’s reality**
 notation for finding an adaptive solution:
+* "G" be a coin that has identified to be real/good coin.
 * "o" be a coin with an unknown weight
-* "H" be a coin that might be too heavy but is not too light
-* "L" be a coin that might be too light but is not too heavy
+* "H" be a coin that might be **(potentially)** too heavy but is not too light
+* "L" be a coin that might be **(potentially)** too light but is not too heavy
 * "arrow L" represent the case when the scale tips to the left
 * "arrow R" represent the case when the scale tips to the right
 * "arrow B" represent the case when the scale balances
-</br>
-**Do not use compare a potential heavy coin on one pan with potential light pan on other pan, since such weighing will not produce any new useful information.**
+
+
+**Do not use compare a potential heavy coin on one pan with potential light pan on other pan, since such weighing will not produce any new useful information if they are unbalanced.**
 
 ## Method Use to Solve the Problem
  This is a very typical problem that can be solve with **Divide and Conquer**
