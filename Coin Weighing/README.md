@@ -32,3 +32,7 @@ notation for finding an adaptive solution:
 ## Facts
 * With **known measurement condition** about the counterfeit(fake) coin, the **maximum number** of coin that **one weighing** can determine which is the counterfeit coin is **3**. With any 2 coins on the pan balance, and 1 coin leave not on the pan balance. The result weighing of the 2 coin plus the knowledge of the counterfeit coin will be sufficient to determine which one is the counterfeit coin.
 * With **unknown measurement condition** about the counterfeit(fake) coin, the **minimum number** of weighing that can guarentee finding the counterfeit coin is **2**. The minimum number of weighing is 2, that is because we have to figure out the "Good" coin first so that we have a standrad to compare the others to determine which is counterfeit coins.
+
+
+## References 
+[ "Solution to the Counterfeit Coin Problem and its Generalization" (PDF). arxiv.org. Retrieved 16 August 2017.](https://arxiv.org/pdf/1310.7268.pdf)
