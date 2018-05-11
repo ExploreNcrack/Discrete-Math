@@ -17,6 +17,7 @@ notation for finding an adaptive solution:
 * "arrow L" represent the case when the scale tips to the left
 * "arrow R" represent the case when the scale tips to the right
 * "arrow B" represent the case when the scale balances
+</br>
 **Do not use compare a potential heavy coin on one pan with potential light pan on other pan, since such weighing will not produce any new useful information.**
 
 ## Method Use to Solve the Problem
