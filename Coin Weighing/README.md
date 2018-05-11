@@ -21,6 +21,8 @@ notation for finding an adaptive solution:
 
 
 **Do not use compare a potential heavy coin on one pan with potential light pan on other pan, since such weighing will not produce any new useful information if they are unbalanced.**
+</br>
+**A mix of potentially heavy and potentially light coins on each side of the pan balance will give you more information after weighing**
 
 ## Method Use to Solve the Problem
  This is a very typical problem that can be solve with **Divide and Conquer**
@@ -28,6 +30,7 @@ notation for finding an adaptive solution:
  </br>**The goal is to isolate the counterfeit coin in minimum of weighings**
  </br>
 </br>**CAN NOT USE Divide and Conquer directly to split the coins into two group when the condition of counterfeit coin is NOT KNOWN**
+</br>**Best way to dvide the coins is to divide a set of coins into 3 equal amount of coins**
 
 ## Facts
 * With **known measurement condition** about the counterfeit(fake) coin, the **maximum number** of coin that **one weighing** can determine which is the counterfeit coin is **3**. With any 2 coins on the pan balance, and 1 coin leave not on the pan balance. The result weighing of the 2 coin plus the knowledge of the counterfeit coin will be sufficient to determine which one is the counterfeit coin.
