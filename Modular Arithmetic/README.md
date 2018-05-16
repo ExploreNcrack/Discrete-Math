@@ -9,5 +9,5 @@ Modular arithmetic can be handled mathematically by introducing a **congruence r
 
 A **congruence relation** (or simply congruence) is an **equivalence relation** on an algebraic structure (such as a group, ring, or vector space) that is compatible with the structure.
 
-# Division of Integers Theorem
+## Division of Integers Theorem
 For every pair of integers 𝑎 and 𝑚 with 𝑚 > 0 there exist unique integers 𝑞 and 𝑟 such that:
